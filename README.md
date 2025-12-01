@@ -1,7 +1,7 @@
 ## ELECTRIC VEHICLE DATASET - POWER BI:
 This project explores an Electric Vehicle dataset sourced from Kaggle to understand how pricing, efficiency, powertrains, and rapid‐charging capability vary across different EV models. I cleaned the dataset in Excel and built an interactive dashboard in Power BI to present meaningful insights in a simple, visual way.
 
-# Project Overview:
+### Project Overview:
 
 Data Cleaning (Excel):
 
